@@ -84,7 +84,7 @@ export default function ContactPage() {
                 </div>
                 <div>
                   <h3 className="text-sm font-semibold uppercase tracking-wide mb-1" style={{ color: '#9CA3AF' }}>Mailing Address</h3>
-                  <p style={{ color: '#6B7280' }}>Volt Transactional<br />2000 NE 42nd Ave PMB 1251<br />Portland, OR 97213</p>
+                  <p style={{ color: '#6B7280' }}>Volt Transactional<br />1776 Broadway, Ste 1600<br />New York, NY 10019</p>
                 </div>
                 <div>
                   <h3 className="text-sm font-semibold uppercase tracking-wide mb-1" style={{ color: '#9CA3AF' }}>SMS Support</h3>
