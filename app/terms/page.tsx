@@ -32,7 +32,7 @@ export default function TermsPage() {
           </p>
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#1F2937' }}>5. Contact</h2>
           <p className="mb-6" style={{ color: '#6B7280' }}>
-            For questions about these Terms, contact us at support@volttransactional.com or 2000 NE 42nd Ave PMB 1251, Portland, OR 97213.
+            For questions about these Terms, contact us at support@volttransactional.com or 1776 Broadway, Ste 1600, New York, NY 10019.
           </p>
         </div>
       </section>
