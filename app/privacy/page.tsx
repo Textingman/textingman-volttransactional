@@ -48,7 +48,7 @@ export default function PrivacyPage() {
           <p className="mb-6" style={{ color: '#6B7280' }}>
             If you have questions about this Privacy Policy, please contact us at:<br />
             Volt Transactional<br />
-            2000 NE 42nd Ave PMB 1251, Portland, OR 97213<br />
+            1776 Broadway, Ste 1600, New York, NY 10019<br />
             Email: <a href="mailto:support@volttransactional.com" style={{ color: '#d364a4' }}>support@volttransactional.com</a>
           </p>
         </div>
